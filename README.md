@@ -5,7 +5,7 @@
 ## Installation
 
 ```shell
-cargo install --git https://github.com/aimlesscrowd/binhost
+cargo install --git https://github.com/aimlesscrowd/binhost binhost
 ```
 
 ## Server usage
